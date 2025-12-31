@@ -1,0 +1,3 @@
+FACILITO!! VAMOS A CORRER: pnpm install Y LISTO!
+
+SACAR LA API KEY
